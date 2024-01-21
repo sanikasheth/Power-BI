@@ -18,7 +18,15 @@ This repository contains a Power BI dashboard for visualizing Airbnb data. The d
 9. Create textsheets
 
 
+
 ## Data Source
 - The Airbnb data used in this dashboard can be obtained from (https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data)
 - Link to download the logo: https://github.com/DataScienceRoadMap...
+
+## Report
+![Desktop](https://github.com/sanikasheth/Power-BI/assets/78950430/8360e1c8-0e50-437f-994c-61e4278332e0)
+![M5](https://github.com/sanikasheth/Power-BI/assets/78950430/b9c21b72-7d45-45ca-997d-9b8aa39f4af0)
+
+
+
 
